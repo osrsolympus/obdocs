@@ -24,6 +24,7 @@ It's highly recommended to join the [support server](https://discord.gg/ob) for 
 ### Skills
 
 Currently available skills are:
+
   * Agility
   * Fishing
   * Mining
@@ -622,6 +623,7 @@ All potions in OSRS are available to be made in the bot, however ingredients may
 | Saradomin Brew | Toadflax potion (unf) | Crushed nest | 81 |
 
 Some potions require other potions as inputs, or require things other than the standard vial of water + herb + secondary setup.
+
 | **Finished potion** | **Potion base** | **Potion secondary** | **Required level** |
 | - | :-: | :-: | :-: |
 | Guthix balance | Restore potion | Garlic, Silver dust | 22 |
